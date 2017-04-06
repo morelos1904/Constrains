@@ -1,0 +1,6 @@
+framework module Pods_RssTests {
+  umbrella header "Pods-RssTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
